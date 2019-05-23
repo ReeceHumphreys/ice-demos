@@ -198,3 +198,7 @@ local.properties
 **/res/raw/*.bks
 
 Resource.designer.cs
+
+swift/Carthage
+*.swiftmodule
+*.app
