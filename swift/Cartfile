@@ -1,1 +1,3 @@
 github "zeroc-ice/ice" "v3.7-beta1-swift"
+github "MessageKit/MessageKit"
+
